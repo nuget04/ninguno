@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id=";Rp7#6YgbEV,agJ1OR.+" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="2iCn2~1l}mhfKVx`Zf-@"><field name="i">IconNames.No</field><next><block type="device_pause" id="3#OcO6(BrkSY!3(A~u}O"><value name="pause"><shadow type="timePicker" id="iBC4#isr/!)vL`K0$j!@"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="?#6@mGxmC=cU!}6n=~{T"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id=",#DYGQFwwAWK)`:Wzpu7"><value name="pause"><shadow type="timePicker" id="@=q^9WdaPfxtb)H^QQSQ"><field name="ms">500</field></shadow></value></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="!P2R[shJa@_`g@*JiDMr" x="311" y="36"><statement name="HANDLER"><block type="device_print_message" id="tWfTihXjd=J]iZ-b,n+n"><value name="text"><shadow type="text" id="Mmisa0ViBu5o4}j{H}qR"><field name="TEXT">HOLA MUNDO</field></shadow></value></block></statement></block></xml>
